@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Sales Forecasting Dashboard", layout="wide")
