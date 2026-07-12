@@ -8,7 +8,7 @@ End-to-end sales forecasting and demand intelligence project built for the Techn
 
 | File | Description |
 |---|---|
-| `analysis.ipynb` | Full analysis notebook — EDA, time series decomposition, 3 forecasting models, segment forecasting, anomaly detection, product clustering |
+| `analysis.ipynb` | Full analysis notebook - EDA, time series decomposition, 3 forecasting models, segment forecasting, anomaly detection, product clustering |
 | `app.py` | Streamlit dashboard (4 pages: Sales Overview, Forecast Explorer, Anomaly Report, Product Demand Segments) |
 | `summary.docx` | 2-page executive report for non-technical stakeholders |
 | `train.csv` | Superstore Sales dataset |
@@ -27,6 +27,5 @@ End-to-end sales forecasting and demand intelligence project built for the Techn
 Python · Pandas · Statsmodels (SARIMA) · Prophet · XGBoost · Scikit-learn (Isolation Forest, K-Means, PCA) · Streamlit · Matplotlib
 
 ## Author
-K Shridharan
 
 K Shridharan | [LinkedIn](https://linkedin.com/in/kshridharan) | [GitHub](https://github.com/Shridharan04)
